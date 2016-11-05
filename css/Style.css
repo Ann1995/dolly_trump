@@ -1,0 +1,170 @@
+﻿body {
+    position: relative;
+    background-color: #404040;
+}
+
+#section1 {
+    padding-top: 10%;
+    padding-bottom: 5%;
+    padding-left: 2%;
+    padding-right: 3%;
+    height: 100%;
+    text-align: justify;
+    word-spacing: 3px; /*интервал между словами*/
+    color: #fff;
+    background-color: #101010;
+    font-family: 'Lora', serif;
+    line-height: 150%;
+}
+
+#first {
+    padding-bottom: 5%;
+}
+
+.muted {
+    padding-top: 3%;
+}
+
+#section2 {
+    padding-top: 3%;
+    /*padding-bottom: 5%;*/
+    height: 100%;
+    text-align: justify;
+    color: #fff;
+    background-color: #404040;
+    font-family: 'Poiret One', cursive;
+    font-size: small;
+    word-spacing: 3px; /*интервал между словами*/
+    line-height: 200%;
+}
+
+#sectionwithimg {
+    height: 100%;
+    /*padding-bottom:10%;*/
+}
+
+#section3 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 2%;
+    padding-right: 3%;
+    height: 100%;
+    color: #fff;
+    background-color: #222222;
+    font-family: 'Lora', serif;
+    word-spacing: 3px;
+    line-height: 150%;
+}
+
+#section41 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    line-height: 200%;
+    text-align: justify;
+    word-spacing: 3px;
+    height: 100%;
+    color: #fff;
+    background-color: #000000;
+    /*line-height: 250%;*/
+    font-size: medium;
+}
+#padding{
+    float:right;
+    padding-left:50%;
+}
+
+#section42 {
+    padding-top: 2%;
+    padding-bottom: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: justify;
+    height: 100%;
+    color: #fff;
+    background-color: #5D5D5D;
+    font-family: 'Poiret One', cursive;
+    font-size: medium;
+}
+
+#imgfirst {
+    margin: 0 auto;
+    /*padding-bottom:4%;*/
+    width: 20%;
+    height: 20%;
+}
+
+#listimg {
+    margin: 0 auto;
+}
+
+#fish {
+    position: relative;
+    float: right;
+    padding-top: 15%;
+    /*margin: 0;*/
+}
+
+#new {
+    /*position:absolute;*/
+    float: right;
+    opacity: 0.5;
+    padding-right: 5%;
+}
+
+#list {
+    position: absolute;
+    padding-left: 10%;
+    padding-right: 15%;
+}
+
+.remarkakula {
+    background-color: #404040;
+    height: 40%;
+    /*width: 100%;*/
+    /*padding-bottom:5%;
+    padding-top:5%;*/
+}
+
+#afterremarka {
+    height: 4%;
+    padding-bottom: 10%;
+}
+
+.section30 {
+    /*float: right;*/
+    padding-left: 1%;
+    padding-top: 1%;
+    position: relative;
+}
+
+.section31 {
+    position: relative;
+    float: right;
+}
+
+
+#shark {
+    float: left;
+     position: relative;
+}
+
+#sectionpadding2 {
+    position: absolute;
+    /*float:right;*/
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2%;
+    /*padding-right:30%;*/
+    /*padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 5%;*/
+    font-size: large;
+    line-height: 150%;
+    text-align: justify;
+}
+
+.size {
+    padding-bottom: 15%;
+}
